@@ -1,0 +1,152 @@
+[
+    [
+        "/Users/ale/workspace/softphone/connector/testCallCenter/force-app",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ale/workspace/softphone/connector/testCallCenter/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1530916740837,
+            "changeTime": 1530916740837,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/ale/workspace/softphone/connector/testCallCenter/force-app/main",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ale/workspace/softphone/connector/testCallCenter/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1530916740837,
+            "changeTime": 1530916740837,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ale/workspace/softphone/connector/testCallCenter/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ale/workspace/softphone/connector/testCallCenter/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1531206052080,
+            "changeTime": 1531206052080,
+            "contentHash": "228cc1364eecf45cb775da9b358302d062422dd1",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ale/workspace/softphone/connector/testCallCenter/force-app/main/default/aura",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ale/workspace/softphone/connector/testCallCenter/force-app/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1530916740837,
+            "changeTime": 1530916740837,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ale/workspace/softphone/connector/testCallCenter/force-app/main/default/callCenters",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ale/workspace/softphone/connector/testCallCenter/force-app/main/default/callCenters",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1530916843819,
+            "changeTime": 1530916843819,
+            "contentHash": "f99fb300ca7b20725a982ebda6ee36a45150ac80",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ale/workspace/softphone/connector/testCallCenter/force-app/main/default/callCenters/SoftphoneCTI.callCenter-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ale/workspace/softphone/connector/testCallCenter/force-app/main/default/callCenters/SoftphoneCTI.callCenter-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1461,
+            "modifiedTime": 1530916843819,
+            "changeTime": 1530916843820,
+            "contentHash": "4f545400a4b657f7cc91cbb5cd96223ed1d18d1b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ale/workspace/softphone/connector/testCallCenter/force-app/main/default/pages",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ale/workspace/softphone/connector/testCallCenter/force-app/main/default/pages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1531206052084,
+            "changeTime": 1531206052084,
+            "contentHash": "b6094385cddac2c99e59f59dc020d8ff69e64579",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ale/workspace/softphone/connector/testCallCenter/force-app/main/default/pages/ctipage.page",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ale/workspace/softphone/connector/testCallCenter/force-app/main/default/pages/ctipage.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 56,
+            "modifiedTime": 1531206079694,
+            "changeTime": 1531206079694,
+            "contentHash": "eb19c36080b60f9c262f7efb2538d3251d0015ba",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ale/workspace/softphone/connector/testCallCenter/force-app/main/default/pages/ctipage.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ale/workspace/softphone/connector/testCallCenter/force-app/main/default/pages/ctipage.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 182,
+            "modifiedTime": 1531206052086,
+            "changeTime": 1531206052086,
+            "contentHash": "fd751ed0fa807d08d783543ab133085d68197809",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ale/workspace/softphone/connector/testCallCenter",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ale/workspace/softphone/connector/testCallCenter",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 288,
+            "modifiedTime": 1530916770275,
+            "changeTime": 1530916770275,
+            "contentHash": "482aba1731d0a586e52ba05892f68b26d69ba4fe",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
